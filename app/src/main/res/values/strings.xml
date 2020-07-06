@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">everything</string>
+
+    <!-- Demo -->
+    <string name="demo_title">示例详情</string>
+    <string name="demo_list_title">功能验证</string>
+
+    <!-- Music -->
+    <string name="song_list_title">我的音乐</string>
+</resources>
